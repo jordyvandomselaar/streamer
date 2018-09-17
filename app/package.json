@@ -18,7 +18,7 @@
   "devDependencies": {
     "nwb": "0.23.x"
   },
-  "author": "",
+  "author": "jordy.m.van.domselaar@gmail.com",
   "license": "MIT",
-  "repository": ""
+  "repository": "https://github.com/jordyvandomselaar/streamer"
 }
